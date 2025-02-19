@@ -42,6 +42,9 @@ importers:
       eslint-plugin-react-refresh:
         specifier: ^0.4.3
         version: 0.4.19(eslint@8.57.1)
+      vite:
+        specifier: ^6.1.0
+        version: 6.1.0
 
 packages:
 

@@ -1,7 +1,7 @@
 [
   {
     "title": "Landing Camp Website",
-    "imageSrc": "projects/project1.png",
+    "imageSrc": "../../assets/projects/project1.png",
     "description": "a fully responsive modern UI/UX website with Next13. TailwindCSS , maximum responsiveness.",
     "skills": ["Nextjs13", "React", "TypeScript","TailwindCSS","Node" ],
     "demo": "https://travellerscamp.vercel.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "GPT3 Modern LandingPage",
-    "imageSrc": "projects/project2.png",
+    "imageSrc": "../../assets/projects/project2.png",
     "description": "This is a fully responsive UI-UX React Project. just click and watch.",
     "skills": ["React", "TailwindCSS", "Node", "JavaScript"],
     "demo": "https://gpt3-ag0hmye6j-parastoomarzis-projects.vercel.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": " Bank Modern App",
-    "imageSrc": "projects/project3.png",
+    "imageSrc": "../../assets/projects/project3.png",
     "description": "responsive application consisting of a stunning hero section, high-quality assets, testimonials, and more!",
     "skills": ["React", "Vite", "Node"],
     "demo": "https://bank-modern-app-mocha.vercel.app/",
@@ -25,7 +25,7 @@
   },
   {
     "title": " Swift",
-    "imageSrc": "projects/project4.png",
+    "imageSrc": "../../assets/projects/project4.png",
     "description": "Build and Deploy a Full Stack MERN Next.js 13, This application works like Twitter and Threads.",
     "skills": ["NextJs", "TailwindCSS ", "Node", "Redux toolkit","TypeScript ","Shadcn " ],
     "demo": "https://drive.google.com/file/d/1UfqcIjRlux27qdksXd5vDohJXOVWYLgu/view",
@@ -33,7 +33,7 @@
   },
   {
     "title": " Management Dashboard    ",
-    "imageSrc": "projects/project5.png",
+    "imageSrc": "../../assets/projects/project5.png",
     "description": "Build and Deploy a (React - Vite) Management Dashboard with many practical components.",
     "skills": ["React", "TailwindCSS ", "Node", "Vite","JavaScript ","MUI " ],
     "demo": "https://management-dashboard-rst1.vercel.app/",
@@ -41,7 +41,7 @@
   },
   {
     "title": "AI Image Generator",
-    "imageSrc": "projects/project6.png",
+    "imageSrc": "../../assets/projects/project6.png",
     "description": "This is an AI GPT model. Modern user interface, Connection to OpenAI's GPT model. write your own idea and see the result.",
     "skills": ["React", "OpenAI API ", "Node","MUI " ],
     "demo": "https://drive.google.com/drive/u/0/folders/1Zh_yujoYLJjOyU5Y58BZmKVDnViPoRxJ",
@@ -49,7 +49,7 @@
   },
   {
     "title": "AI Summarizer",
-    "imageSrc": "projects/project7.png",
+    "imageSrc": "../../assets/projects/project7.png",
     "description": "This is an AI GPT model. Modern user interface, Connection to OpenAI's GPT model, Integration of RTK, also browser history storage.",
     "skills": ["React", "Vite  ", "TailwindCSS ","Rapid API " ],
     "demo": "https://ai-summarizer-five-nu.vercel.app/",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Portfolio Template",
-    "imageSrc": "projects/project8.png",
+    "imageSrc": "../../assets/projects/project8.png",
     "description": "Build and Deploy a Fully Responsive and Modern Landing Portfolio website for Photographers with HTML-CSS-JavaScript",
     "skills": ["React", "JavaScript" ],
     "demo": "https://portfolio2-six-rho.vercel.app/",

@@ -5,7 +5,7 @@
     "startDate": "Aug, 2024",
     "endDate": "Present",
     "experiences": ["Worked on Point-clouds viewer", "Designed the control panel", "NextJs - Typescript | ThreeJs - 3D Rendering"],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "../../assets/history/microsoft.png"
   },
   {
     "role": "Senior Front-end Developer",
@@ -13,7 +13,7 @@
     "startDate": "Sept, 2022",
     "endDate": "Aug, 2024",
     "experiences": ["Worked on Data-clouds and Micro Services", "Dynamic Generation of tools", "NextJs - Javascript"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "../../assets/history/google.png"
   },
   {
     "role": "Full-stack Developer",
@@ -27,7 +27,7 @@
       "NextJs - Typescript"
 
     ],
-    "imageSrc": "history/logo.png"
+    "imageSrc": "../../assets/history/logo.png"
   },
   {
     "role": "Full-stack Developer",
@@ -41,7 +41,7 @@
       "NextJs - Typescript"
 
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "../../assets/history/netflix.png"
   }
   
 ]
